@@ -16,6 +16,11 @@
   <a href="https://www.credly.com/users/ilq">Credly</a>
 </p>
 
+<p align="center">
+  <a href="./README.md">Português</a> |
+  <a href="./README.en.md">English</a>
+</p>
+
 ---
 
 ## Sobre mim
