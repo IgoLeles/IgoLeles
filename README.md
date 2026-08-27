@@ -42,6 +42,7 @@ Minha trajetória combina desenvolvimento de software, cibersegurança e arquite
 - Node.js, Angular, JavaScript e TypeScript
 - AWS: S3, CloudFront e IAM
 - Segurança da Informação, DevSecOps e boas práticas ágeis
+- Estudos iniciais em COBOL, com foco em sistemas legados, modernização e integrações
 
 ---
 

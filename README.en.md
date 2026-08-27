@@ -42,6 +42,7 @@ My background combines software development, cybersecurity, and solution archite
 - Node.js, Angular, JavaScript, and TypeScript
 - AWS: S3, CloudFront, and IAM
 - Information Security, DevSecOps, and agile best practices
+- Introductory COBOL studies focused on legacy systems, modernization, and integrations
 
 ---
 
