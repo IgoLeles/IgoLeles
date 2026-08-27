@@ -82,6 +82,10 @@ My background combines software development, cybersecurity, and solution archite
 | Salesforce Portfolio App | Salesforce-based portfolio case with custom objects, reports, dashboard, and Experience Cloud. | Salesforce Admin, Experience Cloud |
 | Task List | App with task creation, filters, local persistence, and summary sharing. | React, TypeScript, LocalStorage |
 | ZIP Code Finder | Address lookup using a public API, UI states, and approximate map visualization. | React, TypeScript, API |
+| [DevSecOps Deploy Checklist](https://igoleles.github.io/portfolio/index.html#/projetos/devsecops-checklist) | Defensive simulator for reviewing secrets, dependencies, permissions, logs, and public data before publishing. | React, TypeScript, DevSecOps |
+| [Password Policy Generator](https://igoleles.github.io/portfolio/index.html#/projetos/politica-de-senhas) | Educational tool for creating password, MFA, and leaked-credential response guidelines. | React, TypeScript, Security |
+| [Risk Classification Simulator](https://igoleles.github.io/portfolio/index.html#/projetos/classificacao-de-risco) | Guided experience for classifying fictitious assets by impact, probability, and controls. | React, TypeScript, Risk Management |
+| [Guided Security Headers Analyzer](https://igoleles.github.io/portfolio/index.html#/projetos/security-headers) | Safe simulator for reviewing HTTP security headers without querying real sites or collecting URLs. | React, TypeScript, AppSec |
 
 ---
 
@@ -99,7 +103,7 @@ My background combines software development, cybersecurity, and solution archite
   </a>
 </p>
 
-My GitHub brings together studies, portfolio projects, training exercises, and practical experiments related to full stack development, Salesforce, automation, integrations, and security.
+My GitHub brings together studies, portfolio projects, training exercises, and practical experiments related to full stack development, Salesforce, automation, integrations, AppSec, and defensive security.
 
 ---
 
