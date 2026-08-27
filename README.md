@@ -1,0 +1,103 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IgoLeles/portfolio/main/img/hero-home.png" alt="Igo Quaresma - Technology, Security, Human Insight" width="100%" />
+</p>
+
+<h1 align="center">Igo Leles Quaresma</h1>
+
+<p align="center">
+  <strong>Full Stack Developer | Salesforce | DevSecOps | Cloud | Cybersecurity</strong>
+</p>
+
+<p align="center">
+  <a href="https://igoleles.github.io/portfolio/">Portfólio</a> •
+  <a href="https://www.linkedin.com/in/igoquaresma/">LinkedIn</a> •
+  <a href="https://github.com/IgoLeles">GitHub</a> •
+  <a href="https://www.salesforce.com/trailblazer/igoquaresma">Trailblazer</a> •
+  <a href="https://www.credly.com/users/ilq">Credly</a>
+</p>
+
+---
+
+## Sobre mim
+
+Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações corporativas, integrações de sistemas, APIs REST e infraestrutura em nuvem.
+
+Atualmente atuo com foco no ecossistema Salesforce, desenvolvendo competências em Apex, Salesforce Flow, Lightning Web Components, Agentforce, Data Cloud e automação de processos de negócio.
+
+Minha trajetória combina desenvolvimento de software, cibersegurança e arquitetura de soluções, permitindo uma visão ampla sobre qualidade, segurança, escalabilidade e entrega de valor em ambientes corporativos.
+
+---
+
+## Foco atual
+
+- Salesforce Development: Apex, Flow, LWC, SOQL e SOSL
+- Agentforce, Generative AI e automação inteligente
+- Data Cloud: DLO, DMO e harmonização de dados
+- APIs REST, integrações e autenticação com JWT
+- Node.js, Angular, JavaScript e TypeScript
+- AWS: S3, CloudFront e IAM
+- Segurança da Informação, DevSecOps e boas práticas ágeis
+
+---
+
+## Tecnologias e ferramentas
+
+<p>
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img alt="Apex" src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## Destaques
+
+- Agentblazer Champion 2026
+- Salesforce Developer Core - OSF Digital
+- BALF360 - Programa de Formação Salesforce
+- Formação de Especialistas Salesforce - Sottelli
+- Copado AI - Salesforce DevOps
+- Participação no Comitê Público do IDCiber
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Portfólio Pessoal](https://igoleles.github.io/portfolio/) | Site pessoal com páginas de sobre, projetos, contato e cases visuais. | React, TypeScript, GitHub Pages |
+| [Salesforce Dev Core Portfolio](https://github.com/IgoLeles/salesforce-dev-core-portfolio) | Repositório de estudos e práticas do programa Salesforce Developer Core. | Salesforce, Apex, LWC |
+| Salesforce Portfolio App | Case de portfólio em Salesforce com objetos customizados, reports, dashboard e Experience Cloud. | Salesforce Admin, Experience Cloud |
+| Lista de Tarefas | App com cadastro, filtros, persistência local e compartilhamento de resumo. | React, TypeScript, LocalStorage |
+| Buscador de CEP | Consulta de endereço com API pública, estados de UI e mapa aproximado. | React, TypeScript, API |
+
+---
+
+## GitHub em números
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IgoLeles&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Igo Leles" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgoLeles&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Igo Leles" />
+</p>
+
+---
+
+## Vamos conversar
+
+Estou aberto a oportunidades remotas, vagas internacionais e posições focadas em Salesforce, desenvolvimento full stack, integrações e segurança.
+
+<p>
+  <a href="https://www.linkedin.com/in/igoquaresma/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Igo%20Quaresma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://igoleles.github.io/portfolio/">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-igoleles.github.io-F5B400?style=for-the-badge&logo=githubpages&logoColor=111111" />
+  </a>
+</p>
