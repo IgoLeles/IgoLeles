@@ -80,12 +80,21 @@ Minha trajetória combina desenvolvimento de software, cibersegurança e arquite
 
 ---
 
-## GitHub em números
+## GitHub em foco
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IgoLeles&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Igo Leles" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgoLeles&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Igo Leles" />
+<p>
+  <a href="https://github.com/IgoLeles?tab=repositories">
+    <img alt="Repositórios" src="https://img.shields.io/badge/Reposit%C3%B3rios-Projetos%20e%20estudos-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/IgoLeles/salesforce-dev-core-portfolio">
+    <img alt="Salesforce Portfolio" src="https://img.shields.io/badge/Salesforce-Dev%20Core%20Portfolio-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  </a>
+  <a href="https://igoleles.github.io/portfolio/">
+    <img alt="Portfólio online" src="https://img.shields.io/badge/Portf%C3%B3lio-Site%20online-F5B400?style=for-the-badge&logo=githubpages&logoColor=111111" />
+  </a>
 </p>
+
+Meu GitHub reúne estudos, projetos de portfólio, exercícios de formação e experimentos práticos ligados a desenvolvimento full stack, Salesforce, automação, integrações e segurança.
 
 ---
 
