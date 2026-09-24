@@ -5,7 +5,13 @@
 <h1 align="center">Igo Leles Quaresma</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Salesforce | DevSecOps | Cloud | Cybersecurity</strong>
+  <strong>Full Stack Developer | Salesforce | QA Automation | DevSecOps | Cloud & Cybersecurity</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/IgoLeles/portfolio/actions/workflows/deploy-pages.yml">
+    <img alt="Quality Gate and Deploy" src="https://github.com/IgoLeles/portfolio/actions/workflows/deploy-pages.yml/badge.svg" />
+  </a>
 </p>
 
 <p align="center">
@@ -29,7 +35,7 @@ Full Stack Developer with experience in corporate application development, syste
 
 I am currently focused on the Salesforce ecosystem, building skills in Apex, Salesforce Flow, Lightning Web Components, Agentforce, Data Cloud, and business process automation.
 
-My background combines software development, cybersecurity, and solution architecture, giving me a broad view of quality, security, scalability, and value delivery in corporate environments.
+My background combines software development, quality engineering, cybersecurity, and solution architecture, giving me a broad view of security, scalability, and value delivery in corporate environments.
 
 ---
 
@@ -41,6 +47,7 @@ My background combines software development, cybersecurity, and solution archite
 - REST APIs, integrations, and JWT authentication
 - Node.js, Angular, JavaScript, and TypeScript
 - AWS: S3, CloudFront, and IAM
+- Software quality and test automation with Vitest, Testing Library, and Playwright
 - Information Security, DevSecOps, and agile best practices
 - Introductory COBOL studies focused on legacy systems, modernization, and integrations
 
@@ -57,6 +64,9 @@ My background combines software development, cybersecurity, and solution archite
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -78,7 +88,7 @@ My background combines software development, cybersecurity, and solution archite
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [Personal Portfolio](https://igoleles.github.io/portfolio/) | Personal website with about, projects, contact, and visual case-study pages. | React, TypeScript, GitHub Pages |
+| [Personal Portfolio](https://igoleles.github.io/portfolio/) | Application with interactive case studies, automated tests, and deployment protected by a Quality Gate. | React, TypeScript, Playwright, GitHub Actions |
 | [Salesforce Dev Core Portfolio](https://github.com/IgoLeles/salesforce-dev-core-portfolio) | Study and practice repository for the Salesforce Developer Core program. | Salesforce, Apex, LWC |
 | Salesforce Portfolio App | Salesforce-based portfolio case with custom objects, reports, dashboard, and Experience Cloud. | Salesforce Admin, Experience Cloud |
 | Task List | App with task creation, filters, local persistence, and summary sharing. | React, TypeScript, LocalStorage |
@@ -87,6 +97,19 @@ My background combines software development, cybersecurity, and solution archite
 | [Password Policy Generator](https://igoleles.github.io/portfolio/index.html#/projetos/politica-de-senhas) | Educational tool for creating password, MFA, and leaked-credential response guidelines. | React, TypeScript, Security |
 | [Risk Classification Simulator](https://igoleles.github.io/portfolio/index.html#/projetos/classificacao-de-risco) | Guided experience for classifying fictitious assets by impact, probability, and controls. | React, TypeScript, Risk Management |
 | [Guided Security Headers Analyzer](https://igoleles.github.io/portfolio/index.html#/projetos/security-headers) | Safe simulator for reviewing HTTP security headers without querying real sites or collecting URLs. | React, TypeScript, AppSec |
+
+---
+
+## Quality, testing, and continuous delivery
+
+The portfolio currently includes **26 automated scenarios**: 19 component, integration, API, and data tests, plus 7 end-to-end browser tests.
+
+- Quality Gate with reproducible installation, dependency audit, tests, and production build.
+- GitHub Pages deployment only after the complete workflow is approved.
+- Publishing restricted to the compiled artifact instead of the entire repository root.
+- Weekly Dependabot checks for libraries and GitHub Actions.
+
+QA case studies: [Task List](https://igoleles.github.io/portfolio/index.html#/projetos/qa-lista-de-tarefas) • [ZIP Code Finder](https://igoleles.github.io/portfolio/index.html#/projetos/qa-buscador-de-cep) • [Mini E-commerce](https://igoleles.github.io/portfolio/index.html#/projetos/qa-mini-ecommerce) • [Financial Dashboard](https://igoleles.github.io/portfolio/index.html#/projetos/qa-dashboard-financeiro)
 
 ---
 
