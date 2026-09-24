@@ -79,7 +79,10 @@ Minha trajetória combina desenvolvimento de software, engenharia de qualidade, 
 - Salesforce Developer Core - OSF Digital
 - BALF360 - Programa de Formação Salesforce
 - Formação de Especialistas Salesforce - Sottelli
-- Copado AI - Salesforce DevOps
+- Copado Certified Copado AI
+- Flosum Certified Professional
+- Flosum Certified Expert
+- Certified Online Fraud Prevention Specialist (COFPS) - Hack & Fix
 - Participação no Comitê Público do IDCiber
 
 ---

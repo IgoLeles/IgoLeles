@@ -79,7 +79,10 @@ My background combines software development, quality engineering, cybersecurity,
 - Salesforce Developer Core - OSF Digital
 - BALF360 - Salesforce Training Program
 - Salesforce Specialist Training - Sottelli
-- Copado AI - Salesforce DevOps
+- Copado Certified Copado AI
+- Flosum Certified Professional
+- Flosum Certified Expert
+- Certified Online Fraud Prevention Specialist (COFPS) - Hack & Fix
 - Member of the IDCiber Public Committee
 
 ---
